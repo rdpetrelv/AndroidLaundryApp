@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Laundry Management</string>
+    <string name="app_logo_description">Laundry mng App logo</string>
+
+    <string name="act_main_hint">Window name</string>
+    <string name="act_main_welcome">Welcome User,\n </string>
+    <string name="act_main_open_machines">Machines</string>
+    <string name="act_main_open_sensors">Sensors</string>
+    <string name="act_main_open_reservation">Reservations</string>
+
+    <string name="act_act_window_text">Window name</string>
+
+    <string name="act_room_detail_name">Room name</string>
+    <string name="act_room_detail_current_temperature">Current temperature</string>
+    <string name="act_room_detail_target_temperature">Target temperature</string>
+
+    <string name="menu_rooms">Machines</string>
+    <string name="menu_website">Reservations</string>
+    <string name="menu_email">Users</string>
+
+</resources>
